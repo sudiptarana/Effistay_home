@@ -66,7 +66,7 @@ h3,
 h4,
 h5,
 h6 {
-  background: -webkit-linear-gradient(#eee, #999);
+  background: -webkit-linear-gradient(#eee, #777);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
  }
